@@ -5,7 +5,7 @@ arch:
 go_import_path: go.opencensus.io
 
 go:
-  - 1.12.x
+  - 1.13.x
 
 env:
   global:
